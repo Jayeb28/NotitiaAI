@@ -1,0 +1,1 @@
+print ('when life is okay')
